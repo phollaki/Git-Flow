@@ -5,9 +5,9 @@ git flow init
 
 Which branch should be used for bringing forth production releases?
    - main
-Branch name for production releases: [main]
-Branch name for "next release" development: [develop] dev
 
+Branch name for production releases: [main]\
+Branch name for "next release" development: [develop] dev\
 How to name your supporting branch prefixes?\
 Feature branches? [feature/] feat\
 Release branches? [release/]\
