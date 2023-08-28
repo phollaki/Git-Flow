@@ -26,4 +26,30 @@ git branch -a
 git tag -l
 ```
 
+**Document initialization**
+```
+git flow feature start create-guidline-for-git-flow-initialization
+```
 
+```
+Switched to a new branch 'featcreate-guidline-for-git-flow-initialization'
+
+Summary of actions:
+- A new branch 'featcreate-guidline-for-git-flow-initialization' was created, based on 'dev'
+- You are now on branch 'featcreate-guidline-for-git-flow-initialization'
+
+Now, start committing on your feature. When done, use:
+
+     git flow feature finish create-guidline-for-git-flow-initialization
+```
+**Add - Commit - Push**
+```
+git add .
+git commit -m "implement guidline to git flow initialization"
+git push
+```
+
+**Finish feature branch**
+```
+git flow feature finish create-guidline-for-git-flow-initialization
+```
