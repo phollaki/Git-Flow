@@ -53,3 +53,17 @@ git push
 ```
 git flow feature finish create-guidline-for-git-flow-initialization
 ```
+
+```
+Switched to branch 'dev'
+Merge made by the 'ort' strategy.
+ Initialize.md | 55 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 55 insertions(+)
+ create mode 100644 Initialize.md
+Deleted branch featcreate-guidline-for-git-flow-initialization (was 830cb71).
+
+Summary of actions:
+- The feature branch 'featcreate-guidline-for-git-flow-initialization' was merged into 'dev'
+- Feature branch 'featcreate-guidline-for-git-flow-initialization' has been removed
+- You are now on branch 'dev'
+```
