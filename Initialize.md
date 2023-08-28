@@ -8,12 +8,12 @@ Which branch should be used for bringing forth production releases?
 Branch name for production releases: [main]
 Branch name for "next release" development: [develop] dev
 
-How to name your supporting branch prefixes?
-Feature branches? [feature/] feat
-Release branches? [release/]
-Hotfix branches? [hotfix/]
-Support branches? [support/]
-Version tag prefix? []
+How to name your supporting branch prefixes?\
+Feature branches? [feature/] feat\
+Release branches? [release/]\
+Hotfix branches? [hotfix/]\
+Support branches? [support/]\
+Version tag prefix? []\
 
 
 **Check what branches available**
